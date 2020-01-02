@@ -1,0 +1,11 @@
+{
+  "name": "graphql_hackernews",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:enzoftware/graphql_hackernews.git",
+  "author": "Enzo Lizama <lizama.enzo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
